@@ -9,7 +9,7 @@ Windows使用方法：
 在CMD窗口：
 felx lexer.l
 gcc lex.yy.c
-a.exe test.c
+a.exe
 
 Linux使用方法：
 lex lexer.l
